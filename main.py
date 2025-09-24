@@ -32,7 +32,7 @@ async def main():
 
     agent=Agent(
         name="Kaif Shamim",
-        instructions="You are a helpful assiatant& also reply with conetxt of api given by me",
+        instructions="You are a helpful assiatant& also reply with context of api given by me",
         tools=[fetch_user_data],
         model=Model
     )
