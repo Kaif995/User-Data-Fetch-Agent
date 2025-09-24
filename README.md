@@ -2,7 +2,7 @@
 
 An async-powered AI agent built with the Gemini 2.0 Flash model, capable of invoking tools and fetching external data via APIs. This project demonstrates how to integrate OpenAI-style agents with custom toolchains and run them using an event-driven architecture.
 
-## 🚀 Features
+## 🚀 Features 
 
 - Async agent execution using `asyncio`
 - Tool invocation via `@function_tool` decorator
@@ -49,3 +49,4 @@ cd gemini-agent-toolkit
     ```
 ## 👨‍💻 Author
 Kaif Shamim Crafted with curiosity and code.
+
